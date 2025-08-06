@@ -2,8 +2,13 @@
 aliases:
   - Digital Garden
 date: 2025-08-03
+tags:
+  - digitalgarden
+summary: Digital garden what is it
+type: note
 status: published
 ---
+![[img-DigitalGarden.jpg]]
 
 The one thing that most digital gardens that I've visited seem to have, is an explanation of what a digital garden is.  To my mind it's an opportunity to explore in ones own patch of land on the internet and anything you want it to be!
 
@@ -48,3 +53,5 @@ https://nesslabs.com/digital-garden-set-up
 # 🌱 Quartz
 
 [Quartz](https://quartz.jzhao.xyz/) Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [already using Quartz](https://quartz.jzhao.xyz/showcase) to publish personal notes, websites, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+
+> [!info] You can find my install notes here [[25-08-05 - Quartz - Gardening|Quartz - Gardening]]

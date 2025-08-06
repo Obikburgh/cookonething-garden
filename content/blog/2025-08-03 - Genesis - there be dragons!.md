@@ -11,7 +11,7 @@ Back when I was a child, mum would get these big thick catalogues through the do
 
 My eleventh birthday and my dad had found an ad in the paper for a 2nd hand Dragon 32.  I'd wanted a spectrum 48k or a Commodore 64, however those are the breaks.  Rather than a bunch of games and supply of entertainment...I had to learn to program to get it to do anything.  The days before for same day delivery, at best 28 days which turned into something like 60 before a couple of cassettes came through the door with frogger and Hungry Horace.  So I learnt about for loops, do while and if then statements.  Looking back a language that would hold me in good stead for the next 40 or so years.  
 
-Here I am launching another escapade, a new beginning.  As I type run and hit enter, my name runs across the screen a hundred times, and then I advance to a classic BASIC graphics routine and loop through the colours as I alter the x and y coordinates.  The screen fills with dots of lights.  The magic of bits and bites and the power of personal blog.  Another cycle in my learning as once more I fill the screen with thoughts and ideas...my [[25-08-03 Digital Garden]] begins.
+Here I am launching another escapade, a new beginning.  As I type run and hit enter, my name runs across the screen a hundred times, and then I advance to a classic BASIC graphics routine and loop through the colours as I alter the x and y coordinates.  The screen fills with dots of lights.  The magic of bits and bites and the power of personal blog.  Another cycle in my learning as once more I fill the screen with thoughts and ideas...my [[25-08-03 - Digital Garden]] begins.
 
 ---
 https://en.wikipedia.org/wiki/Dragon_32/64

@@ -20,7 +20,7 @@ When you cook one thing, you're not rushing to fill the plate - you're learning 
 ---
 # 🌱- What Is This Place?
 
-This site is set up as a [[25-08-03 Digital Garden|Digital Garden]] - an online space at the intersection of a notebook and a blog, where I can share seeds of thoughts to be cultivated in public.
+This site is set up as a [[25-08-03 - Digital Garden|Digital Garden]] - an online space at the intersection of a notebook and a blog, where I can share seeds of thoughts to be cultivated in public.
 
 This digital garden is evergreen: I keep editing and refining notes rather than letting them decay after publication. There's no chronological order here, instead, you'll find a network of interconnected ideas linked together, creating trails you can follow based on your interests.
 
