@@ -1,4 +1,5 @@
 ---
+title: Complete Quartz Digital Garden Setup Guide
 date: 2025-08-06
 aliases:
   - Quartz - Gardening
@@ -254,11 +255,8 @@ Visit `http://localhost:8080` to preview your site.
 ### Deploy
 
 1. **Click "Save and Deploy"**
-    
 2. **Wait for build** (advised 2-5 minutes)
-    
 3. **Initial SSL might fail** - this is normal
-    
 
 > [!info] **Note:** My first attempt without the Quartz files was near instant, and it bombed...so had to go through the above lifecycle. I've tried to write the above lifecycle in a way you wouldn't experience this. 2nd attempt it was in a fankle looking for my original repository, which I'd deleted and started again. Hopefully it works on first attempt if my notes are good. In this case the build was pretty quick...but the output link failed due to not having a certificate. I gave up waiting and just assigned a domain that did have a certificate and it worked straight away.
 

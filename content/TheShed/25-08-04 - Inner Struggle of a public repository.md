@@ -1,4 +1,5 @@
 ---
+title: The Inner Struggle of a Public Repository
 date: 2025-08-06
 aliases: 
 tags:
