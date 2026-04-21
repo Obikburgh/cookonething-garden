@@ -1,5 +1,5 @@
 ---
-title: The Pipeline
+title: The Pipeline - using a symbolic link
 date: 2026-04-21
 tags:
   - pkm
